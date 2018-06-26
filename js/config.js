@@ -109,10 +109,10 @@ var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"Do not joke about crashing the server. Doing so will result in a permanent ban!",
 	"Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!",
-        "Please Dont Disconnect From Freedom Networks Get To Know Us More!",
+        "If you have multiple entrances into your base, you can block off one of them. (As long as there is at least one accessible way into your base, it is fine!",
         "If your printers/items are stolen, you must wait one hour before rejoining the server if you chose to leave!",
         "Invite Your Friends For Your Chance To Win VIP!",
-        "Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!", 
+        "Don't threaten to DDoS the server - This will result in a perma ban, joke or not!", 
         "Mingeing Is Unacceptable Behavior And You Will Be Permanently Banned!",
         "Do Not Ask For Ranks Apply On The Forums!",
         "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
@@ -124,7 +124,7 @@ var l_messages = [
         "Sexism / racism will not be tolerated and if caught or reported, you will be liable for a 12hour - 1day ban with no appeal!",
         "Respect everyone. No shit-talking (Swearing in /OOC), purposefully annoying people or trolling!",
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
-        "Do not prop climb, surf, kill, block, bridge, push, trap or spam!",
+        "Don't prop climb, surf, kill, block, bridge, push, trap or spam!",
         "You cannot kill yourself to evade a roleplay situation!",
         "Bullying Is Not Tolerated Respect All Players!"
 ];
