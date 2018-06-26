@@ -55,7 +55,8 @@ Multiple images will automatically shuffle between them
 var l_bgImages = [
 	"image1.jpg",
         "image2.jpg",
-        
+        "image3.jpg",
+        "image4.jpg",
 ];
 
 /*Random background images order?*/
@@ -107,7 +108,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Vips Are Responsible For their Own Actions And Will Lose The Rank If Caught Abusing This Gos For Admins AsWell!",
 	"Do not joke about crashing the server. Doing so will result in a permanent ban!",
-	"Mingeing In This Server Will Result In A Perma Ban!",
+	"Do NOT threaten to DDoS the server - This will result in a perma ban, joke or not!",
         "Please Dont Disconnect From Freedom Networks Get To Know Us More!",
         "If your printers/items are stolen, you must wait one hour before rejoining the server if you chose to leave!",
         "Invite Your Friends For Your Chance To Win VIP!",
@@ -116,12 +117,12 @@ var l_messages = [
         "Do Not Ask For Ranks Apply On The Forums!",
         "Your base can't include movement impairing door ways or entrances, aka crouching jumping!",
         "Crashing The Server Will Get Your Ip Banned!",
-        "Welcome Your In Freedom Networks!",
+        "Don't speak or joke about DDOS, even in role-play!",
         "Do not build inside unowned buildings!",
         "Your base must have at least one entrance that is possible for thieves to lockpick. You are allowed to propblock excess entrances such as windows and extra doors!",
-        "Use of CitizenHack is not Allowed if crought it's a Permanent Ip Ban!",
-        "Don't You Dare Come In Here And Tell Me How To Do My Fucking Job M8!",
-        "Don't Like The Server Then Leave Go Join Your Favorite SandBox Server!",
+        "Do not attempt to bend the rules to your liking or find loop holes, these are basic server rules and are used as a base of information. Staff have the right to enforce against any unfair play that may not be stated in these rules!",
+        "Sexism / racism will not be tolerated and if caught or reported, you will be liable for a 12hour - 1day ban with no appeal!",
+        "Respect everyone. No shit-talking (Swearing in /OOC), purposefully annoying people or trolling!",
         "No job abuse, change jobs, etc to get out of a role-play situation or an admin sit!",
         "Do not prop climb, surf, kill, block, bridge, push, trap or spam!",
         "You cannot kill yourself to evade a roleplay situation!",
